@@ -1,0 +1,1 @@
+This is the file which is created via GIT hub. i just wants to know how the chnage are pulled over there from here git to visual studio.
